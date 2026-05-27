@@ -1,15 +1,15 @@
 {
-  "version": "0.1.25",
-  "notes": "Release v0.1.25",
-  "pub_date": "2026-05-27T21:13:57Z",
+  "version": "0.1.26",
+  "notes": "Release v0.1.26",
+  "pub_date": "2026-05-27T21:26:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://github.com/Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases/releases/download/v0.1.25/Nuclear.Rizz.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK0Q2NEpTRmcxSXhpL3dXaTZOakM2Nm9vRjZjcmE4ZGZHdjJCRERQRVJ3SENxOHUvVHhpVXpaOUJKQWh4OEU3emRnT01PWkVLWkJUWnlGWU02YXYwUklyRytqY0tYcGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE2OTY0CWZpbGU6TnVjbGVhciBSaXp6LmFwcC50YXIuZ3oKMEhzakFJekE2MWlGY2lIbnB2TTg0TThiWUVGY3ZNcTJQYldCZW5yaWpDUTN3d0FBTmxJWEJSQjVJeVFHWnRZQ2dIQzN0dS95Q0hkek9rNU1VWHNORFE9PQo=",
+      "url": "https://github.com/Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases/releases/download/v0.1.26/Nuclear.Rizz.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases/releases/download/v0.1.25/Nuclear.Rizz_0.1.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK0Q2NEpTRmcxSXh4ZEU1NzFOcUxRQVlnNXBhSmhOdHA1VGl6bEZNeGNCMDdEd0daQ3JucWIwWjM4NE5yNGJMQnZkM0NTZGpBakxWWFMwb3YzeElySVhvd2w2d05zVkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE3MTU0CWZpbGU6TnVjbGVhciBSaXp6XzAuMS4yNl94NjQtc2V0dXAuZXhlCngxVE1pbGlsMEI0Y2dvQVBPRXhtVVkxc0xaZGhYUVpBYU11eENLWklBZlNWdkV1MWJVaXhUbmZqODduZ0x4U05UdmFvcm15V0o0MWxsazU0OXRySEF3PT0K",
+      "url": "https://github.com/Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases/releases/download/v0.1.26/Nuclear.Rizz_0.1.26_x64-setup.exe"
     }
   }
 }
