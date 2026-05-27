@@ -3,6 +3,7 @@ set -e
 
 REPO="Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases"
 VERSION="v0.1.0"
+VER="${VERSION#v}"
 
 echo "=== Nuclear Rizz Installer ==="
 echo ""
@@ -12,10 +13,10 @@ ARCH="$(uname -m)"
 
 case "$OS" in
   Darwin)
-    FILE="nuclear-rizz.dmg"
+    FILE="Nuclear.Rizz_${VER}_aarch64.dmg"
     ;;
   MINGW*|MSYS*|CYGWIN*)
-    FILE="nuclear-rizz-setup.exe"
+    FILE="Nuclear.Rizz_${VER}_x64-setup.exe"
     ;;
   *)
     echo "Unsupported OS: $OS"
