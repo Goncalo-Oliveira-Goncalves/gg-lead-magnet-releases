@@ -11,11 +11,16 @@ echo ""
 OS="$(uname -s)"
 ARCH="$(uname -m)"
 
+# Detect WSL (reports Linux but runs Windows binaries)
+if [ "$OS" = "Linux" ] && grep -qi Microsoft /proc/version 2>/dev/null; then
+  OS="WSL"
+fi
+
 case "$OS" in
   Darwin)
     FILE="Nuclear.Rizz_${VER}_aarch64.dmg"
     ;;
-  MINGW*|MSYS*|CYGWIN*)
+  MINGW*|MSYS*|CYGWIN*|WSL)
     FILE="Nuclear.Rizz_${VER}_x64-setup.exe"
     ;;
   *)
@@ -44,5 +49,11 @@ case "$OS" in
     echo "To install, run the downloaded .exe:"
     echo ""
     echo "  start $FILE"
+    ;;
+  WSL)
+    echo "Downloaded to WSL. The .exe is at: $(pwd)/$FILE"
+    echo "Run it from Windows Explorer or from CMD:"
+    echo ""
+    echo "  explorer.exe \"$(wslpath -w "$(pwd)")\\$FILE\""
     ;;
 esac
