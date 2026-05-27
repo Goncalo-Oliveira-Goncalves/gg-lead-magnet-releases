@@ -1,15 +1,15 @@
 {
-  "version": "0.0.0",
-  "notes": "Initial placeholder — first CI release will overwrite this.",
-  "pub_date": "2024-01-01T00:00:00Z",
+  "version": "0.1.24",
+  "notes": "Release v0.1.24",
+  "pub_date": "2026-05-27T20:52:15Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": ""
+      "url": "https://github.com/Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases/releases/download/v0.1.24/Nuclear.Rizz_0.1.24_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": ""
+      "url": "https://github.com/Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases/releases/download/v0.1.24/Nuclear.Rizz_0.1.24_x64-setup.exe"
     }
   }
 }
