@@ -1,15 +1,15 @@
 {
-    "platforms":  {
-                      "darwin-aarch64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK0Q2NEpTRmcxSXhXVG8xcERLUWl2UERoWjc3eDJqZjEzZisyeDRZRTBYbTRVVWt1V05sMTdaaGcxUWNzc3BpSHd5cXNKR3U1ZUIvWDJQc1FrR2JRb0JxSG5mbmhtU2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTgxMTY3CWZpbGU6TnVjbGVhciBSaXp6LmFwcC50YXIuZ3oKUzBNUHJOU1R5S2tXN2NJVVhWdWhYc3FHS2RwbFN2U0pLS0VRTkdhTVBaYVNVeXRBaEVmaVFEdXc2N2dSa2VDaExKd3ZMUHorbEVCZlM3WnZGYWYwRFE9PQo=",
-                                             "url":  "https://github.com/Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases/releases/download/v0.1.35/Nuclear.Rizz.app.tar.gz"
-                                         },
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK0Q2NEpTRmcxSTgxREhkR1hCbGlDb1ZEOWlkUncvWUJIMHc4Snd2d1l4Z1NGSkcwK2JFRFBGajZYSEVEK2grSk1zS2o1NlZtdGhmOU5VVDhCQVBGQ1U5SjEwMHdYakFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTgxMzM1CWZpbGU6TnVjbGVhciBSaXp6XzAuMS4zNV94NjQtc2V0dXAuZXhlCit3ZjZjcUhvelZSa0pmYlNBZ3VtZzRKRi8xekp0WktseXpQRlpXRDEvZE1VYU1HakhCaDVCSzNIVlFIZUJZUUJjU3dpaVJIK0JaMTZuckFsRnVnQkFnPT0K",
-                                             "url":  "https://github.com/Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases/releases/download/v0.1.35/Nuclear.Rizz_0.1.35_x64-setup.exe"
-                                         }
-                  },
-    "pub_date":  "2026-05-28T16:30:44Z",
-    "version":  "0.1.35",
-    "notes":  "Release v0.1.35"
+  "version": "0.1.38",
+  "notes": "Release v0.1.38",
+  "pub_date": "2026-05-28T15:38:39Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK0Q2NEpTRmcxSTMrNG53eklHdXJCeDFudm1iNnlYZzAxNHRDMGFKdzVJSmUvUjErYUZUUDZBL2lsZFZLNWh4WW1MWExjV0VUMVJwUXRlMlQyTk5GSTBMMDBpWFZGbGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTgyNDAwCWZpbGU6TnVjbGVhciBSaXp6LmFwcC50YXIuZ3oKTDkrb3JlQ3lRd0MxdmRtUGQ4K2pUR3BSTm9VczNqOVkxWHI0SmpQc0ppSWRZS0FRSS9BQzVRTXdiRWFxOEVkRld0SVU4cjlSdFg3YUpWd0N5U0FHRHc9PQo=",
+      "url": "https://github.com/Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases/releases/download/v0.1.38/Nuclear.Rizz.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK0Q2NEpTRmcxSTlCUlBXdmhTbndWWkxSRWo2WnJrSnp0Z1IrRE5YR1RaVjJEL1FYcWRlZTVtM1M1bnUrSUIraTlPb2duOXhaVjFaS2FxdlRGK2U1WXBnWThlem9qZUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTgyNjUzCWZpbGU6TnVjbGVhciBSaXp6XzAuMS4zOF94NjQtc2V0dXAuZXhlCmc3OGltWlQ0N3crY2hBajhORnE2VkdnaU1VNlBheW0ralNQcU10eUdzWWlpT0VDNGVyNlgvOEtrWWU4M2tCc0srTDlyR0I0YXhVR0hZODdIckcwWUFRPT0K",
+      "url": "https://github.com/Goncalo-Oliveira-Goncalves/gg-lead-magnet-releases/releases/download/v0.1.38/Nuclear.Rizz_0.1.38_x64-setup.exe"
+    }
+  }
 }
